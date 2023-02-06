@@ -2,4 +2,8 @@
 
 ### Objetivo del trabajo:
 
-- Realizar un modelo de regresión para la predicción del precio de viviendas a partir de un dataset proporcionado.
+- Efectuar una limpieza del dataset provisto. Particularmente, deberán diseñar estrategias
+  para lidiar con los datos perdidos en ciertas variables.
+- Realizar un análisis descriptivo de las principales variables.
+- Crear nuevas columnas a partir de las características dadas que puedan tener valor
+  predictivo.
