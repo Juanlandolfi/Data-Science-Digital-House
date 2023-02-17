@@ -11,4 +11,4 @@
 ### Objetivo del trabajo Entrega 2:
 
 - Implementar distintos modelos de regresión y realizar su correspondiente evaluación.
-- Implementar modelos de regularización.
+- Implementar modelos con regularización.
